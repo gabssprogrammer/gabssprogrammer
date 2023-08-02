@@ -1,6 +1,5 @@
-![Project Logo/Thumbnail](https://images7.alphacoders.com/131/1310259.jpeg)
 # 👋 Hi there! I'm @gabssprogrammer
-
+![Project Logo/Thumbnail](https://mystickermania.com/cdn/stickers/anime/mashle-mash-burnedead-eats-512x512.png)
 ## About me
 Hello! I'm a 22-year-old Brazilian programmer who's passionate about technology and software development. My main areas of expertise include C#, JavaScript, TypeScript, C++, Java, Front-end, and Back-end. Additionally, I enjoy building bots using Node.js.
 
